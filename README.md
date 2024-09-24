@@ -37,4 +37,12 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Santhu4/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Santhu4/leetcode-problems/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Santhu4/leetcode-problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
