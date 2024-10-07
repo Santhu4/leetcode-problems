@@ -1,13 +1,21 @@
 class Solution {
-    public int minLength(String s) {
-        StringBuilder o = new StringBuilder(s);
-        StringBuilder ab_str =  new StringBuilder(s);
-        StringBuilder cd_str =  new StringBuilder(s);
-        while(cd_str.toString().contains("AB") || cd_str.toString().contains("CD")){
-            o = cd_str;
-        ab_str =new StringBuilder(o.toString().replace("AB",""));
-        cd_str =new StringBuilder(ab_str.toString().replace("CD",""));
+    public int minLength(String str) {
+        Stack<Character> s = new Stack<>();
+        for(int i = 0;i<str.length();i++){
+            char ch = str.charAt(i);
+            if(s.isEmpty()){
+                s.push(ch);
+                continue;
+            }
+            if(s.peek() == 'A' && ch == 'B'){
+                s.pop();
+            }else if(s.peek() == 'C' && ch == 'D'){
+                s.pop();
+            }else{
+                s.push(ch);
+            }
         }
-        return cd_str.length();
+        
+        return s.size();
     }
 }
