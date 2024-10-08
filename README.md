@@ -42,6 +42,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Santhu4/leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Santhu4/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/Santhu4/leetcode-problems/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Santhu4/leetcode-problems/tree/master/0645-set-mismatch) |
 | [1256-rank-transform-of-an-array](https://github.com/Santhu4/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
@@ -71,11 +72,13 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Santhu4/leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Santhu4/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Santhu4/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Santhu4/leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Santhu4/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Santhu4/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Santhu4/leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Santhu4/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
