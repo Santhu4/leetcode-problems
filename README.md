@@ -15,6 +15,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0645-set-mismatch](https://github.com/Santhu4/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0729-my-calendar-i](https://github.com/Santhu4/leetcode-problems/tree/master/0729-my-calendar-i) |
 | [1256-rank-transform-of-an-array](https://github.com/Santhu4/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Santhu4/leetcode-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Santhu4/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Santhu4/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
