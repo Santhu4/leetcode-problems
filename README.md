@@ -15,6 +15,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0605-can-place-flowers](https://github.com/Santhu4/leetcode-problems/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Santhu4/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0729-my-calendar-i](https://github.com/Santhu4/leetcode-problems/tree/master/0729-my-calendar-i) |
+| [1002-maximum-width-ramp](https://github.com/Santhu4/leetcode-problems/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Santhu4/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Santhu4/leetcode-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Santhu4/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -70,6 +71,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | ------- |
 | [0155-min-stack](https://github.com/Santhu4/leetcode-problems/tree/master/0155-min-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Santhu4/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Santhu4/leetcode-problems/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Santhu4/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Santhu4/leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
@@ -130,4 +132,8 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Santhu4/leetcode-problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/Santhu4/leetcode-problems/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
