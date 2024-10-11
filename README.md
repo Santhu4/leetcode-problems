@@ -124,6 +124,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Santhu4/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/Santhu4/leetcode-problems/tree/master/0268-missing-number) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Santhu4/leetcode-problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Simulation
