@@ -28,6 +28,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0179-largest-number](https://github.com/Santhu4/leetcode-problems/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Santhu4/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Santhu4/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1250-longest-common-subsequence](https://github.com/Santhu4/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Santhu4/leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Santhu4/leetcode-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Santhu4/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -103,6 +104,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Santhu4/leetcode-problems/tree/master/0118-pascals-triangle) |
+| [1250-longest-common-subsequence](https://github.com/Santhu4/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 ## Counting
 |  |
 | ------- |
