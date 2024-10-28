@@ -35,6 +35,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Santhu4/leetcode-problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Santhu4/leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Santhu4/leetcode-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3451-string-compression-iii](https://github.com/Santhu4/leetcode-problems/tree/master/3451-string-compression-iii) |
 ## Greedy
 |  |
 | ------- |
