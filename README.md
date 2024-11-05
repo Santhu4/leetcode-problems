@@ -29,6 +29,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 | [0179-largest-number](https://github.com/Santhu4/leetcode-problems/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Santhu4/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Santhu4/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0812-rotate-string](https://github.com/Santhu4/leetcode-problems/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Santhu4/leetcode-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/Santhu4/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Santhu4/leetcode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -153,4 +154,8 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/Santhu4/leetcode-problems/tree/master/1002-maximum-width-ramp) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Santhu4/leetcode-problems/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
