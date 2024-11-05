@@ -114,6 +114,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Santhu4/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Santhu4/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [1250-longest-common-subsequence](https://github.com/Santhu4/leetcode-problems/tree/master/1250-longest-common-subsequence) |
 ## Counting
@@ -141,6 +142,7 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Santhu4/leetcode-problems/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/Santhu4/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Santhu4/leetcode-problems/tree/master/0268-missing-number) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Santhu4/leetcode-problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Simulation
@@ -159,4 +161,8 @@ Thesse are all the Leetcode platform problems which i was done from only 19-08-2
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Santhu4/leetcode-problems/tree/master/0812-rotate-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Santhu4/leetcode-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
